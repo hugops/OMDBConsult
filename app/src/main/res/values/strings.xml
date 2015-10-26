@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">OMDB Consult</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="save">Adicionar Filme</string>
+    <string name="movie_not_found">Filme não encontrado</string>
+    <string name="connection_not_found">Não há conexão com a internet</string>
+    <string name="title_activity_movie_detail">MovieDetailActivity</string>
+</resources>
